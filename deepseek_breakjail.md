@@ -6,7 +6,6 @@
 
 ![Screenshot 2025-01-31 203801](https://github.com/user-attachments/assets/a277812b-b419-40fb-862f-1069ef8d878f)
 
-![Screenshot 2025-01-31 204456](https://github.com/user-attachments/assets/85725c29-7934-4624-b172-a94c1749e2b1)
 
 ## after editing the exploit in order for the AI model to give more details about hacking some X company login page:
 
