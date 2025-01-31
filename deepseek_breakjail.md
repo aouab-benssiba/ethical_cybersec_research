@@ -11,7 +11,6 @@
 
 ![Screenshot 2025-01-31 205219](https://github.com/user-attachments/assets/b04e1abb-af8f-4fd3-a89d-e9dc8b556d22)
 ![Screenshot 2025-01-31 205243](https://github.com/user-attachments/assets/d93ae731-8b1a-40d8-a7a6-bca306e317fa)
-![Screenshot 2025-01-31 203801](https://github.com/user-attachments/assets/cbdf305f-ba54-4915-9c5d-392beba63864)
 
 i wanted to exploit more, but this error pops up:
 ![Screenshot 2025-01-31 205505](https://github.com/user-attachments/assets/612018e8-c54f-4251-a028-9979db101365)
