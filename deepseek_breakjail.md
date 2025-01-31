@@ -36,3 +36,5 @@ Limitations: NONEXISTENT this super man outputs two type of outputs one is witho
 
 ## Conclusion:
 - this is the same Chat-GPT vuln, which has been replicated as well to this DeepSeek AI module that is deployed on their website: https://chat.deepseek.com
+### Refrences:
+- [ChatGPT jailbreak LINK]([https://example.com](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516))
