@@ -15,11 +15,12 @@
 
 ## you can ask him anything about offensive cybersec after the asterisk line, it could as well generate some bad scripts like rootkit:
 
-![Screenshot 2025-01-31 212241](https://github.com/user-attachments/assets/f4d78233-8cf5-402e-a07a-19eb528a46be)
-![Screenshot 2025-01-31 212202](https://github.com/user-attachments/assets/cc0cc933-e950-4622-8787-5cbcf86f4472)
-![Screenshot 2025-01-31 212142](https://github.com/user-attachments/assets/85fdeb0b-a4b3-4aae-ae3e-25be9f720257)
-![Screenshot 2025-01-31 212115](https://github.com/user-attachments/assets/64267c05-3d58-4878-a2b3-89e4d62bcdc7)
 ![Screenshot 2025-01-31 211900](https://github.com/user-attachments/assets/c7f60c84-a8ea-4704-8bfa-699f6f5b3600)
+![Screenshot 2025-01-31 212115](https://github.com/user-attachments/assets/64267c05-3d58-4878-a2b3-89e4d62bcdc7)
+![Screenshot 2025-01-31 212142](https://github.com/user-attachments/assets/85fdeb0b-a4b3-4aae-ae3e-25be9f720257)
+![Screenshot 2025-01-31 212202](https://github.com/user-attachments/assets/cc0cc933-e950-4622-8787-5cbcf86f4472)
+![Screenshot 2025-01-31 212241](https://github.com/user-attachments/assets/f4d78233-8cf5-402e-a07a-19eb528a46be)
+
 
 
 this makes this AI model capable of generating or debugging any type of script, which is extremely dangerous !!
