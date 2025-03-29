@@ -34,7 +34,7 @@ I focused on testing WPS 2.0 security. After running reaver for 40 minutes witho
 The main problem with WPS 2.0 was that I got locked out after 3-4 attempts. When this happens, reaver will retry the first PIN (e.g., 12345670), and wash will show that the router is locked. I attempted to solve this by spoofing my MAC address and using a different Wi-Fi card, but I still got locked out.
 
 ## Resetting the Router with MDK3:
-Eventually, I found a forum post (Source) describing how to reset the router by spamming it until it resets. All the routers I tested were old models, and they were vulnerable to this type of reset. However, this may not work on all routers, and some may be resistant to such attacks.
+Eventually, I found a forum post [source](https://forum.aircrack-ng.org/index.php?topic=468.0), describing how to reset the router by spamming it until it resets. All the routers I tested were old models, and they were vulnerable to this type of reset. However, this may not work on all routers, and some may be resistant to such attacks., by the way an automated script has been released called Atrophy [source](http://www.mirrorcreator.com/files/1NLJSO03/)
 
 ## Automating the Process:
 To bypass lockouts, I wrote a script that ran reaver with longer delays to appear more human, and used mdk3 to reset the router if it got locked. After resetting, the process would continue. Later, I wrote another script using crunch (a password-generating tool) to create custom PINs and fed them into reaver.
