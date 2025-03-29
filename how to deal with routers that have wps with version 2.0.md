@@ -13,15 +13,15 @@ If you get locked out, you’ll need to reset the router to clear the locked sta
 ## Resetting the Router:
 To reset a router after locking it, follow these steps, which require running multiple commands at once. Open 5 terminal windows and run these commands concurrently:
 
-```mdk3 monX a -a xx:xx:xx:xx:xx:xx -m``` <!-- First terminal -->
+```mdk3 monX a -a xx:xx:xx:xx:xx:xx -m``` #First terminal
 
-```mdk3 monX m -t xx:xx:xx:xx:xx:xx```  <!-- Second terminal -->
+```mdk3 monX m -t xx:xx:xx:xx:xx:xx```  #Second terminal
 
-```mdk3 monX d -b blacklist -c X``` <!-- Third terminal -->
+```mdk3 monX d -b blacklist -c X``` #Third terminal 
 
-```mdk3 monX b -t xx:xx:xx:xx:xx:xx -c X``` <!-- Fourth terminal -->
+```mdk3 monX b -t xx:xx:xx:xx:xx:xx -c X``` #Fourth terminal 
 
-```wash -i monX -C``` <!-- Fifth terminal -->
+```wash -i monX -C``` #Fifth terminal 
 
 This may not work with all routers, but it's worth trying.
 
