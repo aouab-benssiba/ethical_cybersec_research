@@ -221,19 +221,5 @@ Enhance Scripts: Add tools like Amass or Waybackurls for deeper insights.
 
 Automate S3 Checks: Use tools like AWS CLI to test for open buckets.
 
-GitHub Repository:
-All scripts are available at shibli2700/recon-scripts. Contributions welcome!
-
 Fun Fact: While writing this guide, two information disclosure vulnerabilities were discovered using this methodology.
 Happy Hunting! 🕵️♂️
-
-
-### Key Enhancements:
-1. **Markdown Formatting**: Headers, code blocks, lists, and emphasis for readability.  
-2. **Syntax Highlighting**: Added `bash` to code blocks.  
-3. **Structured Workflow**: Clear separation of steps (Subdomain Enumeration → Data Collection → Processing).  
-4. **Command Explanations**: Usage instructions and output file descriptions.  
-5. **Hyperlinks**: Direct links to tools and repositories.  
-6. **Visual Cues**: Icons (🕵️♂️) and formatting for emphasis.  
-
-Simply save this as `README.md` and add images (e.g., `recon-approach-diagram.png`) to your GitHub repository!
